@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country_id: 
+  user_id: 
+  comments: MyString
+  likes: 1
+
+two:
+  country_id: 
+  user_id: 
+  comments: MyString
+  likes: 1
